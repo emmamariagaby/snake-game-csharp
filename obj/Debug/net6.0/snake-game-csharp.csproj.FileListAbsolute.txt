@@ -1,0 +1,15 @@
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/bin/Debug/net6.0/snake-game-csharp
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/bin/Debug/net6.0/snake-game-csharp.deps.json
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/bin/Debug/net6.0/snake-game-csharp.runtimeconfig.json
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/bin/Debug/net6.0/snake-game-csharp.dll
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/bin/Debug/net6.0/snake-game-csharp.pdb
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.csproj.AssemblyReference.cache
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.AssemblyInfoInputs.cache
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.AssemblyInfo.cs
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.csproj.CoreCompileInputs.cache
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.dll
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/refint/snake-game-csharp.dll
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.pdb
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/snake-game-csharp.genruntimeconfig.cache
+/Users/Emma/Documents/PROJEKT/snake-game-csharp/Snake/obj/Debug/net6.0/ref/snake-game-csharp.dll
